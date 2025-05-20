@@ -7,6 +7,11 @@ A secure digital lock system using VHDL and FPGA. It features keypad input, 7-se
 FPGA Demonstration: 
 Through the pin planner, it was decided which outputs would be used for the implementation. The keypad buttons were used for input, the seven-segment display was used to show the code being typed, the countdown for the lockout and the feedback for when the code was correctly guessed. There is also an LED which lights up when the correct password is entered.
 
+Wiring Diagram:
+![image](https://github.com/user-attachments/assets/313c41f3-db75-47dc-be83-211b28b44a91)
+
+
+
 Observations and Results: 
 ![image](https://github.com/user-attachments/assets/9d7875ff-864b-4061-b2fa-3619e493215f)
 
